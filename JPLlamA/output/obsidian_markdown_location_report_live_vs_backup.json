@@ -1,0 +1,772 @@
+{
+  "vault": "/Users/jeanpierrelang/JP Obsidian Vault",
+  "all_markdown_total": 42154,
+  "live_markdown_total_excluding_organizerbackups": 6022,
+  "organizerbackups_markdown_total": 36132,
+  "live_markdown_in_archive": 838,
+  "live_markdown_hidden": 0,
+  "live_markdown_missing_files": 0,
+  "live_markdown_outside_vault": 0,
+  "unexpected_extension_files_count": 0,
+  "unexpected_extension_files_sample": [],
+  "all_top50_folders_by_markdown_count": [
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/Customers/Apple",
+      "count": 4527
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/Customers/Apple",
+      "count": 4527
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Apple",
+      "count": 4527
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/Customers/Apple",
+      "count": 3567
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/Customers/Apple",
+      "count": 3567
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Customers/Apple",
+      "count": 3567
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/Customers/Apple",
+      "count": 3567
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/Duplicates",
+      "count": 723
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/Archive/Duplicates",
+      "count": 723
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/Archive/Duplicates",
+      "count": 723
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes",
+      "count": 625
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes",
+      "count": 625
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes",
+      "count": 625
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes",
+      "count": 625
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Diverse",
+      "count": 516
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Diverse",
+      "count": 516
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Diverse",
+      "count": 516
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Diverse",
+      "count": 516
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/Archive/Duplicates",
+      "count": 260
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/Duplicates",
+      "count": 260
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/Archive/Duplicates",
+      "count": 260
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/Archive/Duplicates",
+      "count": 260
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/Customers/Duplicates",
+      "count": 253
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/Customers/Duplicates",
+      "count": 253
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Duplicates",
+      "count": 253
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/DPWorld",
+      "count": 234
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/DPWorld",
+      "count": 234
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/DPWorld",
+      "count": 234
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/DPWorld",
+      "count": 128
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/DPWorld",
+      "count": 128
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/DPWorld",
+      "count": 128
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/DPWorld",
+      "count": 128
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/Archive/Review",
+      "count": 114
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/Archive/Review",
+      "count": 114
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/Review",
+      "count": 114
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/DP World/Excellence Topics",
+      "count": 79
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/DP World/Excellence Topics",
+      "count": 79
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/DP World/Excellence Topics",
+      "count": 79
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/DP World/Excellence Topics",
+      "count": 79
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/Customers/Amazon",
+      "count": 62
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/Customers/Amazon",
+      "count": 62
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Amazon",
+      "count": 62
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/CIQ/Clients/Manor/Logistics DCHWCH National",
+      "count": 60
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/CIQ/Clients/Manor/Logistics DCHWCH National",
+      "count": 60
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/CIQ/Clients/Manor/Logistics DCHWCH National",
+      "count": 60
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/CIQ/Clients/Manor/Logistics DCHWCH National",
+      "count": 60
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/Customers/Duplicates",
+      "count": 58
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/Customers/Duplicates",
+      "count": 58
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Customers/Duplicates",
+      "count": 58
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/Customers/Duplicates",
+      "count": 58
+    }
+  ],
+  "all_folders_gt20": [
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/Customers/Apple",
+      "count": 4527
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/Customers/Apple",
+      "count": 4527
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Apple",
+      "count": 4527
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/Customers/Apple",
+      "count": 3567
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/Customers/Apple",
+      "count": 3567
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Customers/Apple",
+      "count": 3567
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/Customers/Apple",
+      "count": 3567
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/Duplicates",
+      "count": 723
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/Archive/Duplicates",
+      "count": 723
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/Archive/Duplicates",
+      "count": 723
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes",
+      "count": 625
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes",
+      "count": 625
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes",
+      "count": 625
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes",
+      "count": 625
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Diverse",
+      "count": 516
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Diverse",
+      "count": 516
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Diverse",
+      "count": 516
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Diverse",
+      "count": 516
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/Archive/Duplicates",
+      "count": 260
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/Duplicates",
+      "count": 260
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/Archive/Duplicates",
+      "count": 260
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/Archive/Duplicates",
+      "count": 260
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/Customers/Duplicates",
+      "count": 253
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/Customers/Duplicates",
+      "count": 253
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Duplicates",
+      "count": 253
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/DPWorld",
+      "count": 234
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/DPWorld",
+      "count": 234
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/DPWorld",
+      "count": 234
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/DPWorld",
+      "count": 128
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/DPWorld",
+      "count": 128
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/DPWorld",
+      "count": 128
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/DPWorld",
+      "count": 128
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/Archive/Review",
+      "count": 114
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/Archive/Review",
+      "count": 114
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/Review",
+      "count": 114
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/DP World/Excellence Topics",
+      "count": 79
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/DP World/Excellence Topics",
+      "count": 79
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/DP World/Excellence Topics",
+      "count": 79
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/DP World/Excellence Topics",
+      "count": 79
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195506/Customers/Amazon",
+      "count": 62
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195829/Customers/Amazon",
+      "count": 62
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Amazon",
+      "count": 62
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/CIQ/Clients/Manor/Logistics DCHWCH National",
+      "count": 60
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/CIQ/Clients/Manor/Logistics DCHWCH National",
+      "count": 60
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/CIQ/Clients/Manor/Logistics DCHWCH National",
+      "count": 60
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/CIQ/Clients/Manor/Logistics DCHWCH National",
+      "count": 60
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/Customers/Duplicates",
+      "count": 58
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/Customers/Duplicates",
+      "count": 58
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Customers/Duplicates",
+      "count": 58
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/Customers/Duplicates",
+      "count": 58
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Old & Admin/Crypto",
+      "count": 45
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Old & Admin/Crypto",
+      "count": 45
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/Old & Admin/Crypto",
+      "count": 45
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/Old & Admin/Crypto",
+      "count": 45
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/Customers/Amazon",
+      "count": 44
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/Customers/Amazon",
+      "count": 44
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Customers/Amazon",
+      "count": 44
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/Customers/Amazon",
+      "count": 44
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Old & Admin/Cargo Partner",
+      "count": 37
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Old & Admin/Cargo Partner",
+      "count": 37
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/Old & Admin/Cargo Partner",
+      "count": 37
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/Old & Admin/Cargo Partner",
+      "count": 37
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/CIQ/Team",
+      "count": 31
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Colocation",
+      "count": 31
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/CIQ/Team",
+      "count": 31
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Colocation",
+      "count": 31
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/CIQ/Team",
+      "count": 31
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Colocation",
+      "count": 31
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/CIQ/Team",
+      "count": 31
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/Old & Admin/Agility Notes/Colocation",
+      "count": 31
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Privat",
+      "count": 30
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/JP Obsidian Vault/Apple Notes/Privat",
+      "count": 30
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/JP Obsidian Vault/Apple Notes/Privat",
+      "count": 30
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/JP Obsidian Vault/Apple Notes/Privat",
+      "count": 30
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194738/Archive/Review",
+      "count": 25
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/OrganizerBackups/20260707-194738/Archive/Review",
+      "count": 25
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-194840/Archive/Review",
+      "count": 25
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/OrganizerBackups/20260707-195145/Archive/Review",
+      "count": 25
+    }
+  ],
+  "live_top50_folders_by_markdown_count": [
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Apple",
+      "count": 4527
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/Duplicates",
+      "count": 723
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Duplicates",
+      "count": 253
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/DPWorld",
+      "count": 234
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/Review",
+      "count": 114
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Amazon",
+      "count": 62
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Google",
+      "count": 20
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault",
+      "count": 9
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/1",
+      "count": 9
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/jpllama",
+      "count": 7
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/customers",
+      "count": 4
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/details-orientation-guide",
+      "count": 3
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/related",
+      "count": 3
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/1601",
+      "count": 2
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Reference",
+      "count": 2
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/contractpptx",
+      "count": 2
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/have",
+      "count": 2
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/process",
+      "count": 2
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/very",
+      "count": 2
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/written",
+      "count": 2
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/1601-1",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/IT project management - ERP Implementation support - ERP Country manager - ERP C",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/JP Obsidian Vault",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Personal",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Standalone including warehouse so no wms one view etc no double entries - centra",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/already",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/archive",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/booking-confirmation",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/booking-confirmation-1",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/but",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/can",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/check",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/contractpptx-1",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/cost",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/cw1",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/details-orientation-guide-1",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/dont",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/drawing",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/finance",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/hub",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/idapfree1jp",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/june",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/look into the process with Lucio",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/management-steering-2nd-steering",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/management-steering-2nd-steering-1",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/multi",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/ocd",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/our",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/per",
+      "count": 1
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/portal",
+      "count": 1
+    }
+  ],
+  "live_folders_gt20": [
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Apple",
+      "count": 4527
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/Duplicates",
+      "count": 723
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Duplicates",
+      "count": 253
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/DPWorld",
+      "count": 234
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Archive/Review",
+      "count": 114
+    },
+    {
+      "folder": "/Users/jeanpierrelang/JP Obsidian Vault/Customers/Amazon",
+      "count": 62
+    }
+  ],
+  "obsidian_ignore_like_settings": [
+    {
+      "file": "/Users/jeanpierrelang/JP Obsidian Vault/.obsidian/workspace.json",
+      "key_path": "left-ribbon.hiddenItems",
+      "value": {
+        "switcher:Open quick switcher": false,
+        "graph:Open graph view": false,
+        "canvas:Create new canvas": false,
+        "daily-notes:Open today's daily note": false,
+        "templates:Insert template": false,
+        "command-palette:Open command palette": false,
+        "bases:Create new base": false,
+        "obsidian-importer:Open Importer": false
+      }
+    }
+  ]
+}

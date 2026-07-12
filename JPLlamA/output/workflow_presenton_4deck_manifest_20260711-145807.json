@@ -1,0 +1,38 @@
+{
+  "status": "failed",
+  "stop_policy": "stop_on_first_failure",
+  "run_requirements": {
+    "strictly_sequential": true,
+    "single_presenton_job": true,
+    "no_python_pptx": true,
+    "no_fake_pptx": true,
+    "stored_knowledge_only": true
+  },
+  "decks": [
+    "DP World Documentation Centre Overview",
+    "DP World SSL",
+    "DP World Global Standard Conditions",
+    "DP World Switzerland"
+  ],
+  "started_at": "2026-07-11T14:58:07.526547",
+  "results": [
+    {
+      "deck": 1,
+      "topic": "DP World Documentation Centre Overview",
+      "status": "failed",
+      "failure_stage": "exception",
+      "failure_reason": "Presenton status polling timed out for task task-9ed3357956218b08181aaf0f7d33613411278692f03f7784003282696de0f743 after 180.09s",
+      "output_pptx": "",
+      "opened_in_powerpoint": false,
+      "vault_pptx": "",
+      "markdown_note": "",
+      "knowledge_updated": false,
+      "presentation_id": "",
+      "seconds": 566.96
+    }
+  ],
+  "failed_deck": 1,
+  "failed_stage": "exception",
+  "failure_detail": "Presenton status polling timed out for task task-9ed3357956218b08181aaf0f7d33613411278692f03f7784003282696de0f743 after 180.09s",
+  "finished_at": "2026-07-11T15:07:34.489780"
+}

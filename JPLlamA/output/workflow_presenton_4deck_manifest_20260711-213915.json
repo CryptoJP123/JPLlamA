@@ -1,0 +1,38 @@
+{
+  "status": "failed",
+  "stop_policy": "stop_on_first_failure",
+  "run_requirements": {
+    "strictly_sequential": true,
+    "single_presenton_job": true,
+    "no_python_pptx": true,
+    "no_fake_pptx": true,
+    "stored_knowledge_only": true
+  },
+  "decks": [
+    "DP World Documentation Centre Overview",
+    "DP World SSL",
+    "DP World Global Standard Conditions",
+    "DP World Switzerland"
+  ],
+  "started_at": "2026-07-11T21:39:15.831340",
+  "results": [
+    {
+      "deck": 1,
+      "topic": "DP World Documentation Centre Overview",
+      "status": "failed",
+      "failure_stage": "knowledge_catalog",
+      "failure_reason": "Knowledge Catalog entry missing for this PPTX/note pair",
+      "output_pptx": "output/Title-Slide-Presentation-Title-Insert-Title-Presenter-Name-Your-Name-Date-202_7bc64bb8-6149-4525-b4bf-75c65ed247fa.pptx",
+      "opened_in_powerpoint": true,
+      "vault_pptx": "/Users/jeanpierrelang/Library/Mobile Documents/com~apple~CloudDocs/JP Obsidian Vault/PPTX to Remember/Title-Slide-Presentation-Title-Insert-Title-Presenter-Name-Your-Name-Date-202_7bc64bb8-6149-4525-b4bf-75c65ed247fa.pptx",
+      "markdown_note": "/Users/jeanpierrelang/Library/Mobile Documents/com~apple~CloudDocs/JP Obsidian Vault/PPTX to Remember/20260708-220221-presentation-make-me-a-2-slide-pptx-explaining-copilot-in-github.md",
+      "knowledge_updated": false,
+      "presentation_id": "cc5c7234-ed82-4ba1-87da-3a8812fd445b",
+      "seconds": 0.0
+    }
+  ],
+  "failed_deck": 1,
+  "failed_stage": "knowledge_catalog",
+  "failure_detail": "Knowledge Catalog entry missing for this PPTX/note pair",
+  "finished_at": "2026-07-11T21:55:20.350580"
+}

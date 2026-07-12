@@ -1,0 +1,77 @@
+{
+  "status": "completed",
+  "stop_policy": "stop_on_first_failure",
+  "run_requirements": {
+    "strictly_sequential": true,
+    "single_presenton_job": true,
+    "no_python_pptx": true,
+    "no_fake_pptx": true,
+    "stored_knowledge_only": true
+  },
+  "decks": [
+    "DP World Documentation Centre Overview",
+    "DP World SSL",
+    "DP World Global Standard Conditions",
+    "DP World Switzerland"
+  ],
+  "started_at": "2026-07-12T00:01:21.978207",
+  "results": [
+    {
+      "deck": 1,
+      "topic": "DP World Documentation Centre Overview",
+      "status": "completed",
+      "failure_stage": "",
+      "failure_reason": "",
+      "output_pptx": "output/Presentation-Export-Presenter-Name-Your-Name-Date-2026-07-11-This-slide-outlines-th_ae538ba2-3d83-48e1-a248-eee76c40762f.pptx",
+      "opened_in_powerpoint": true,
+      "vault_pptx": "/Users/jeanpierrelang/Library/Mobile Documents/com~apple~CloudDocs/JP Obsidian Vault/PPTX to Remember/Presentation-Export-Presenter-Name-Your-Name-Date-2026-07-11-This-slide-outlines-th_ae538ba2-3d83-48e1-a248-eee76c40762f.pptx",
+      "markdown_note": "/Users/jeanpierrelang/Library/Mobile Documents/com~apple~CloudDocs/JP Obsidian Vault/PPTX to Remember/20260712-001657-presentation-dp-world-documentation-centre-overview.md",
+      "knowledge_updated": true,
+      "presentation_id": "49d57ce3-e390-4976-85d1-25317ea3cc31",
+      "seconds": 936.28
+    },
+    {
+      "deck": 2,
+      "topic": "DP World SSL",
+      "status": "completed",
+      "failure_stage": "",
+      "failure_reason": "",
+      "output_pptx": "output/Presentation-Export-Overview-Presenter-John-Doe-Date-2026-07-11-This-slide-outlines-t_7327d103-797e-4575-9f1c-75d941187a6e.pptx",
+      "opened_in_powerpoint": true,
+      "vault_pptx": "/Users/jeanpierrelang/Library/Mobile Documents/com~apple~CloudDocs/JP Obsidian Vault/PPTX to Remember/Presentation-Export-Overview-Presenter-John-Doe-Date-2026-07-11-This-slide-outlines-t_7327d103-797e-4575-9f1c-75d941187a6e.pptx",
+      "markdown_note": "/Users/jeanpierrelang/Library/Mobile Documents/com~apple~CloudDocs/JP Obsidian Vault/PPTX to Remember/20260712-003014-presentation-dp-world-ssl.md",
+      "knowledge_updated": true,
+      "presentation_id": "c10b77ba-9a67-4d26-b149-0739a078f32b",
+      "seconds": 796.68
+    },
+    {
+      "deck": 3,
+      "topic": "DP World Global Standard Conditions",
+      "status": "completed",
+      "failure_stage": "",
+      "failure_reason": "",
+      "output_pptx": "output/Exporting-Data-Efficiently-Presenter-Name-Presenter-Name-Date-2026-07-11-Overview_eecd04ea-bd2f-4948-b8d1-c4449963a2b0.pptx",
+      "opened_in_powerpoint": true,
+      "vault_pptx": "/Users/jeanpierrelang/Library/Mobile Documents/com~apple~CloudDocs/JP Obsidian Vault/PPTX to Remember/Exporting-Data-Efficiently-Presenter-Name-Presenter-Name-Date-2026-07-11-Overview_eecd04ea-bd2f-4948-b8d1-c4449963a2b0.pptx",
+      "markdown_note": "/Users/jeanpierrelang/Library/Mobile Documents/com~apple~CloudDocs/JP Obsidian Vault/PPTX to Remember/20260712-004625-presentation-dp-world-global-standard-conditions.md",
+      "knowledge_updated": true,
+      "presentation_id": "1c682235-7604-4971-8d80-264d707d8023",
+      "seconds": 971.16
+    },
+    {
+      "deck": 4,
+      "topic": "DP World Switzerland",
+      "status": "completed",
+      "failure_stage": "",
+      "failure_reason": "",
+      "output_pptx": "output/Presentation-Export-Overview-Presenter-Your-Name-Date-2026-07-11-This-slide-outline_514bdc23-13d3-4761-8616-f2fc6c123174.pptx",
+      "opened_in_powerpoint": true,
+      "vault_pptx": "/Users/jeanpierrelang/Library/Mobile Documents/com~apple~CloudDocs/JP Obsidian Vault/PPTX to Remember/Presentation-Export-Overview-Presenter-Your-Name-Date-2026-07-11-This-slide-outline_514bdc23-13d3-4761-8616-f2fc6c123174.pptx",
+      "markdown_note": "/Users/jeanpierrelang/Library/Mobile Documents/com~apple~CloudDocs/JP Obsidian Vault/PPTX to Remember/20260712-010152-presentation-dp-world-switzerland.md",
+      "knowledge_updated": true,
+      "presentation_id": "ecb62a7a-8ab9-4db6-bb7b-14fd20d5148a",
+      "seconds": 927.15
+    }
+  ],
+  "finished_at": "2026-07-12T01:01:53.282183"
+}

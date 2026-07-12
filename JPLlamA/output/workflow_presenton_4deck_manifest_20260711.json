@@ -1,0 +1,55 @@
+{
+  "status": "failed",
+  "stop_policy": "stop_on_first_failure",
+  "failed_deck": 1,
+  "failed_stage": "prepare",
+  "failure_detail": "Deck 1 failed at prepare with read timeout at 180s; generate stage not reached in this rerun.",
+  "run_requirements": {
+    "real_workflow_only": true,
+    "no_fallback_generation": true,
+    "no_python_pptx_replacement": true,
+    "no_shortcuts": true
+  },
+  "deck_results": [
+    {
+      "deck": 1,
+      "rc": 1,
+      "generation_time_seconds": 0.0,
+      "prepare_time_seconds": 180.0,
+      "render_time_seconds": 0.0,
+      "export_time_seconds": 0.0,
+      "validation": "failed",
+      "zip_validation": false,
+      "slide_count_validation": false,
+      "output_path": "",
+      "vault_path": "",
+      "open_result": "not_attempted",
+      "log_path": "output/workflow_deck1.log",
+      "timeout_seconds": 180
+    },
+    {
+      "deck": 2,
+      "rc": "not_run",
+      "validation": "not_run",
+      "output_path": "",
+      "vault_path": "",
+      "open_result": "not_attempted"
+    },
+    {
+      "deck": 3,
+      "rc": "not_run",
+      "validation": "not_run",
+      "output_path": "",
+      "vault_path": "",
+      "open_result": "not_attempted"
+    },
+    {
+      "deck": 4,
+      "rc": "not_run",
+      "validation": "not_run",
+      "output_path": "",
+      "vault_path": "",
+      "open_result": "not_attempted"
+    }
+  ]
+}

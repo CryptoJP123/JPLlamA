@@ -1,0 +1,2 @@
+[2026-07-11T13:31:18] REQUEST POST /api/v1/ppt/presentation/create timeout=180s body={"title": "Direct Presenton Probe", "content": "Slide 1: Hello from direct Presenton API probe. Slide 2: This run validates Create -> Prepare -> Generate -> Export.", "language": "English", "template": "general", "template_name": "general"}
+[2026-07-11T13:31:18] RESPONSE POST /api/v1/ppt/presentation/create status=401 elapsed=0.038s body={"detail":"Unauthorized"}

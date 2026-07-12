@@ -1,0 +1,34 @@
+{
+  "original_apple_notes_count": 0,
+  "customers_apple_before": 0,
+  "customers_apple_after": 0,
+  "migrated_notes": 5340,
+  "total_markdown_before": 6047,
+  "total_markdown_after": 6055,
+  "customers_created": 15,
+  "projects_created": 15,
+  "meetings_created": 71,
+  "personal_created": 1641,
+  "reference_created": 705,
+  "apple_notes_folders_removed": 0,
+  "images_archived": 0,
+  "broken_links": 37128,
+  "search_validation": {
+    "password": 32,
+    "OPSX": 1547,
+    "DP World": 168,
+    "PayCargo": 36,
+    "Kik": 26,
+    "Bayer": 0,
+    "Customer Implementation": 835,
+    "Leadership": 194,
+    "Data Custodian": 245
+  },
+  "knowledge_graph": {
+    "notes": 6055,
+    "outgoing_links": 49847,
+    "backlinks": 11968,
+    "customer_nodes": 15,
+    "broken_links": 37128
+  }
+}

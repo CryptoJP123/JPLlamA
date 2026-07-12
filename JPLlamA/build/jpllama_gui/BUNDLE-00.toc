@@ -1,0 +1,3 @@
+([('JPLlamA',
+   '/Users/jeanpierrelang/Documents/GitHub/JPLlamA/JPLlamA/dist/JPLlamA',
+   'EXECUTABLE')],)

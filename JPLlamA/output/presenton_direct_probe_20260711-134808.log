@@ -1,0 +1,5 @@
+[2026-07-11T13:48:08] REQUEST POST /api/v1/auth/login timeout=180s body={"username": "jaempilang@gmail.com", "password": "FuckA19*"}
+[2026-07-11T13:48:08] RESPONSE POST /api/v1/auth/login status=200 elapsed=0.06s body={"configured":true,"authenticated":true,"username":"jaempilang@gmail.com","access_token":"eyJ2IjoxLCJ1IjoiamFlbXBpbGFuZ0BnbWFpbC5jb20iLCJpYXQiOjE3ODM3NzA0ODgsImV4cCI6MTc4NjM2MjQ4OH0.59Gv8ynQeLd3ltTnT0grylRyCGrOtE3pC0uMLxQT9Aw","token_type":"bearer"}
+[2026-07-11T13:48:08] AUTH token acquired
+[2026-07-11T13:48:08] REQUEST POST /api/v1/ppt/presentation/create timeout=180s body={"title": "Direct Presenton Probe", "content": "Slide 1: Hello from direct Presenton API probe. Slide 2: This run validates Create -> Prepare -> Generate -> Export.", "language": "English", "template": "general", "template_name": "general"}
+[2026-07-11T13:48:08] RESPONSE POST /api/v1/ppt/presentation/create status=500 elapsed=0.013s body=Internal Server Error
